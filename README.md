@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Manish</h1>
-<h3 align="center">A self-taught fullStack webDeveloper from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="manish-mandal" height="20" width="30" />India</h3>
+<h3 align="center">A self-taught fullStack webDeveloper from India</h3>
 
-- 🔭 I’m currently working on [Video Chat App](https://github.com/manishMandal02/video-calling-app)
+- 🔭 I’m currently working on [video-calling-app](https://github.com/manishMandal02/video-calling-app)
 
 - 🌱 I’m currently learning **ReactNative**
 
