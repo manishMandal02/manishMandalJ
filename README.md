@@ -21,15 +21,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/sass/sass-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redux/redux-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="" width="40" height="40"/>
  <img src="https://res.cloudinary.com/vastia/image/upload/v1615998801/portfolio/TechStack/jwt_xq9lcl.png" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt="" width="40" height="40"/>
