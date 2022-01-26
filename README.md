@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Remix | Devops**
 
-- 👨‍💻 All of my projects are available at [https://manishmandal.netlify.app](https://manishmandal.me)
+- 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
 - 📫 How to reach me **manishmandalj@gmail.com**
 
