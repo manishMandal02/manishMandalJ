@@ -1,15 +1,14 @@
 <h1 align="center">Hi there, I'm Manish</h1>
 <h3 align="center">A self-taught fullStack webDeveloper from India</h3>
 
-- 🔭 I’m currently working on [video-calling-app](https://github.com/manishMandal02/video-calling-app)
+- 🔭 I’m currently working on my own SaaS
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Remix | Devops**
 
-- 👨‍💻 All of my projects are available at [https://manishmandal.netlify.app](https://manishmandal.netlify.app)
+- 👨‍💻 All of my projects are available at [https://manishmandal.netlify.app](https://manishmandal.me)
 
 - 📫 How to reach me **manishmandalj@gmail.com**
 
-- 📄 Know about my experiences [https://manishmandal.netlify.app/my-resume.pdf](https://manishmandal.netlify.app/my-resume.pdf)
 
 - ⚡ Fun fact **I love watching anime**
 
