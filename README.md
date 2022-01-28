@@ -27,21 +27,18 @@
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/sass/sass-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redux/redux-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg" alt="" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/vastia/image/upload/v1643364588/portfolio/TechStack/nextjs-boilerplate-logo_fi4ffg.png" alt="" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/vastia/image/upload/v1642923744/portfolio/TechStack/tailwindcss_wjrmzx.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original.svg" alt="" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/vastia/image/upload/v1642920970/portfolio/TechStack/express-1_pbocwy.png" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="" width="40" height="40"/>
- <img src="https://res.cloudinary.com/vastia/image/upload/v1615998801/portfolio/TechStack/jwt_xq9lcl.png" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="" width="40" height="40"/>
  <img src="https://res.cloudinary.com/vastia/image/upload/v1615998803/portfolio/TechStack/vs-code_qywr62.png" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" alt="" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/chrome/chrome-original.svg" alt="" width="40" height="40"/>
+ <img src="https://res.cloudinary.com/vastia/image/upload/v1631982867/portfolio/TechStack/docker_u8iwmg.png" alt="" width="45" height="40"/>
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishmandal02&show_icons=true&locale=en&layout=compact" alt="" /></p>
