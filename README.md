@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own SaaS
 
-- 🌱 I’m currently learning **Remix | Devops**
+- 🌱 I’m currently learning **Remix | DevOps**
 
 - 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
