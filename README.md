@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <span align="left">
-<a href="https://twitter.com/manishjmandal" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="manish-mandal's Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/onemandal" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="manish-mandal's Twitter" height="30" width="40" /></a>
 </span>
 <span align="left">
 <a href="https://linkedin.com/in/manish-mandal" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="manish-mandal's Linkedin" height="30" width="40" /></a>
