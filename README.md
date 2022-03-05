@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Manish</h1>
 <h3 align="center">A self-taught fullStack webDeveloper from India</h3>
 
-- 🔭 I’m currently working on my own SaaS
+- 🔭 I’m currently working on my a web based graphic design tool 
 
 - 🌱 I’m currently learning **Remix | DevOps**
 
 - 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
-- 📫 How to reach me **manishmandalj@gmail.com**
+- 📫 How to reach me **hello@manishmandal.me**
 
 
 - ⚡ Fun fact **I love watching anime**
