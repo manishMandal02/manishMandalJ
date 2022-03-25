@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my a web based graphic design tool 
 
-- 🌱 I’m currently learning **Remix | DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
