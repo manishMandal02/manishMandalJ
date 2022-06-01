@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Manish</h1>
 <h3 align="center">A self-taught fullStack webDeveloper from India</h3>
 
-- 🔭 I’m currently working on my a web based graphic design tool 
+- 🔭 I’m currently working on my **SaaS Idea**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AWS Serverless**
 
 - 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
