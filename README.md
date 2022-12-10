@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **SaaS Idea**
 
-- 🌱 I’m currently learning **AWS Serverless**
+- 🌱 I’m currently learning **Serverless**
 
 - 👨‍💻 All of my projects are available at [https://manishmandal.me](https://manishmandal.me)
 
