@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Manish</h1>
 <h3 align="center">A self-taught fullStack webDeveloper from India</h3>
 
-- 🔭 I’m currently working on my **SaaS Idea**
+- 🔭 I’m currently working on my **SaaS Ideas**
 
 - 🌱 I’m currently learning **Serverless**
 
