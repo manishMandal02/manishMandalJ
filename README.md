@@ -40,8 +40,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/chrome/chrome-original.svg" alt="" width="40" height="40"/>
  <img src="https://res.cloudinary.com/vastia/image/upload/v1631982867/portfolio/TechStack/docker_u8iwmg.png" alt="" width="45" height="40"/>
  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishMandalJ&show_icons=true&locale=en&layout=compact" alt="" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishmandalj&show_icons=true&locale=en" alt="manishmandalj" /></p>
 
 <br>
 <br>
