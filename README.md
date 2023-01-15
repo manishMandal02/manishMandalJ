@@ -41,9 +41,9 @@
  <img src="https://res.cloudinary.com/vastia/image/upload/v1631982867/portfolio/TechStack/docker_u8iwmg.png" alt="" width="45" height="40"/>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishmandal02&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishmandalJ&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manishmandal02&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true" alt="" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manishmandalJ&show_icons=true&locale=en&hide=contribs&count_private=true&show_icons=true" alt="" /></p>
